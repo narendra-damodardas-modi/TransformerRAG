@@ -1,0 +1,9 @@
+transformers
+torch
+collections
+dataclasses
+typing
+logging
+numpy
+sklearn
+sentence_transformers
